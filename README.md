@@ -2,7 +2,7 @@
 
 ## Getting Started
 - [Installation](https://github.com/linagora/twake-selenium-appium/wiki/Installation)
-- [Config to run](https://github.com/linagora/twake-selenium-appium/wiki/Configuration) (wip)
+- [Configuration](https://github.com/linagora/twake-selenium-appium/wiki/Configuration)
 
 ## Architecture Concepts
 - [Directory Stucture](https://github.com/linagora/twake-selenium-appium/wiki/Directory-Stucture)
