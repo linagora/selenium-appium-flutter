@@ -14,7 +14,8 @@
 
 ## Predefined Steps
 - [Common Steps](https://github.com/linagora/twake-selenium-appium/wiki/All-Common-Steps)
-- (TMD)
+- [Tmail web steps](https://github.com/linagora/twake-selenium-appium/wiki/Tmail-web-steps)
+- [Tmail mobile steps](https://github.com/linagora/twake-selenium-appium/wiki/Tmail-mobile-steps)
 
 ## Testing Env - CI/CD
 - (TBD)
